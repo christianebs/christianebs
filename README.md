@@ -5,13 +5,25 @@
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=christianebs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </div>
 
+##
+
+#### Participante do Bootcamp:
+
+<img width="10%" src="https://hermes.digitalinnovation.one/tracks/01b0dd36-83ef-40f8-b52a-d542cc85727c.png" />
+
+<br>
+
 ## 
 
+#### Linguagem em desenvolvimento diário:
+
 <div style="display: inline-block"><br>
-  <img align="center" alt="Chris-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
 ##
+
+#### Contato:
 
 <div><br>
   <a href="https://linkedin.com/in/christiane-barbosa" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="christiane-barbosa" /></a>
