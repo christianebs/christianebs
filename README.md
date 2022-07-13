@@ -2,11 +2,10 @@
 
 <div>
   <a href="https://github.com/christianebs/">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=christianebs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianebs&layout=compact&langs_count=16&theme=dracula"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=christianebs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </div>
 
-##
+## 
 
 <div style="display: inline-block"><br>
   <img align="center" alt="Chris-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
