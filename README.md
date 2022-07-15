@@ -32,5 +32,5 @@
   <a href="mailto:christianebs90@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="christianebs" /></a>
   <a href="https://twitter.com/christianebs" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="christianebs"/ ></a>
   <a href="https://instagram.com/christianebs90" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="christianebs90" /></a>
-  <a href="hdiscordapp.com/users/Christiane#8087" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Christiane#8087" /></a>
+  <a href="discordapp.com/users/Christiane#8087" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Christiane#8087" /></a>
 </div>
