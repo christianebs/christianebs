@@ -9,7 +9,7 @@
 
 #### Participante do Bootcamp:
 
-<img width="10%" src="https://hermes.digitalinnovation.one/tracks/01b0dd36-83ef-40f8-b52a-d542cc85727c.png" />
+<img height="120em" src="https://hermes.digitalinnovation.one/tracks/01b0dd36-83ef-40f8-b52a-d542cc85727c.png" />
 
 <br>
 
