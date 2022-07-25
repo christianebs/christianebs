@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Christiane Barbosa
-<p align="justify"> alSou formada desde 2013 em Sistemas de Informação, mas por falta de oportunidades e icentivo, da época, nunca exerci a função. Hoje vejo um mercado mais inclusico e disposto a inserir mulheres na tecnologia. Diante desse cenário, volta a me dedidcar diariamente para recuperar o "tempo perdido". Aguardo ansiosamente por uma chance para aprender (ainda mais) e colocar em prática meus conhecimentos.</p>
+<p align="justify"> Sou formada desde 2013 em Sistemas de Informação, mas por falta de oportunidades e icentivo, da época, nunca exerci a função. Hoje vejo um mercado mais inclusico e disposto a inserir mulheres na tecnologia. Diante desse cenário, volta a me dedidcar diariamente para recuperar o "tempo perdido". Aguardo ansiosamente por uma chance para aprender (ainda mais) e colocar em prática meus conhecimentos.</p>
 
 <div align="center">
   <a href="https://github.com/christianebs/">
