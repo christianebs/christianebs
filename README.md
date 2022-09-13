@@ -8,13 +8,6 @@
 
 ##
 
-#### Participante do Bootcamp:
-<div align="center">
-<img height="120em" src="https://hermes.digitalinnovation.one/tracks/01b0dd36-83ef-40f8-b52a-d542cc85727c.png" />
-</div>
-
-## 
-
 #### Linguagens:
 
 <div align="center" style="display: inline-block"><br>
