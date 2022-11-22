@@ -33,7 +33,6 @@ I look forward to a chance to learn (even more) and put my knowledge into practi
   <a href="mailto:christianebs90@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="christianebs" target="_blank" /></a>
   <a href="https://twitter.com/christianebs" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="christianebs" target="_blank" /></a>
   <a href="https://instagram.com/christianebs90" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="christianebs90" target="_blank" /></a>
-  <a href="https://discordapp.com/users/8087" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Christiane#8087" target="_blank" /></a>
   
   ![Snake animation](https://github.com/christianebs/christianebs/blob/output/github-contribution-grid-snake.svg)
 </div>
