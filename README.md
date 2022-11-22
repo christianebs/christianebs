@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Christiane Barbosa</h1>
+<h1 align="center"> Hello, I'm Christiane!</h1>
 
 <h2 align="center"><img width="20px" src="https://user-images.githubusercontent.com/108686840/203436951-be137f34-caaf-4f9d-8495-d6c6b7f6c5c1.png"> About me </h2>
 
@@ -29,8 +29,6 @@ I look forward to a chance to learn (even more) and put my knowledge into practi
   <a href="#"><img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=CC6699"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=CC6699"></a>
 </p>
-
-<br>
 
 <h2 align="center"> <img width="20px" src="https://user-images.githubusercontent.com/108686840/203430602-756cd9ef-ebf8-4318-bf56-726c3d2bb86e.png"> Contact me </h2>
 
