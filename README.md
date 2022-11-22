@@ -15,14 +15,8 @@ I look forward to a chance to learn (even more) and put my knowledge into practi
 
 <div align="center">
 <a href="https://github.com/christianebs/">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=christianebs&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianebs&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699"/>
-</div>
-  
-  <div align="center">
-  <a href="https://github.com/christianebs">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=christianebs&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianebs&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=christianebs&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianebs&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699"/>
 </div>
 
 <br>
