@@ -1,6 +1,6 @@
 <h1 align="center">Olá, tudo bem? Meu nome é <a href="https://www.linkedin.com/in/christiane-barbosa/"> Christiane Barbosa </a></h1>
 <p align="center"><img width="150px" src="https://user-images.githubusercontent.com/108686840/203427027-a4b0e180-b92f-4c58-9fc6-ff3d9da7c05b.gif"></p>
-<p align="center">Tenho 32 anos, estudo Análise e desenvolvimento de Sistemas e no momento estou procurando uma oportunidade de estágio.</p>
+<p align="center">Tenho 32 anos, estudo Análise e Desenvolvimento de Sistemas e no momento estou procurando uma oportunidade de estágio.</p>
 
 <div align="center">
   <a href="https://github.com/christianebs/">
