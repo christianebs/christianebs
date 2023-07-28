@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=CC6699">
   <img src="https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=CC6699">
   <img src="https://img.shields.io/badge/angular-0D1117?style=for-the-badge&logo=angular&logoColor=CC6699">
+  <img src="https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=CC6699">
 </p>
 
 <p align="center">
