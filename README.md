@@ -4,7 +4,7 @@
 
 <img src="https://github.com/christianebs/christianebs/assets/108686840/1003d6c2-7574-4104-a392-ab6b2713cff2" width="150px" align="right" >
   <p align="left">
-Meu nome é <b>Christiane Barbosa</b>, mas pode me chamar de Chris. Tenho 33 anos e estudo Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando Desenvolvimento de Software com foco em Back-End na Cubos Academy, e estou em busca de uma oportunidade de estágio nessa área.
+Meu nome é <b>Christiane Barbosa</b>, mas pode me chamar de Chris. Tenho 33 anos e estudo Engenharia de Software. Concluí o curso Desenvolvimento de Software com foco em Back-End na Cubos Academy, e estou em busca de uma oportunidade de estágio nessa área.
   </p>
 
   
